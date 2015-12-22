@@ -1,0 +1,3 @@
+[submodule "ansible_common"]
+	path = ansible_common
+	url = git@github.com:bfransman/ansible_common.git

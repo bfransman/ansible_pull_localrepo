@@ -1,0 +1,6 @@
+---
+- name: Add common stuff
+  hosts: localhost
+
+  roles:
+    - role: ansible_motd
