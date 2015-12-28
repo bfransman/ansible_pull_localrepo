@@ -3,4 +3,4 @@
   hosts: localhost
 
   roles:
-    - role: ansible_motd
+    - role: ansible_common
