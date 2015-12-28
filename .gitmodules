@@ -2,3 +2,6 @@
 	path = roles/ansible_common
 	#url = git@github.com:bfransman/ansible_common.git
 	url = https://github.com/bfransman/ansible_common.git
+[submodule "roles/ansible_common"]
+	path = roles/ansible_common
+	url = https://github.com/bfransman/ansible_common.git
