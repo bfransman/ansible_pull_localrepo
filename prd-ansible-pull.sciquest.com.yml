@@ -1,6 +1,6 @@
 ---
 - name: Add common stuff
-  hosts: localhost
+  hosts: common
 
   roles:
     - role: ansible_common
